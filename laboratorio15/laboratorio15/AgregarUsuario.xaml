@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="laboratorio15.AgregarUsuario"
+             xmlns:local="clr-namespace:laboratorio15">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Nombre" x:Name="firstName"/>
+            <Entry Placeholder="Apellido" x:Name="lastName"/>
+            <Entry Placeholder="Correo" x:Name="email" Keyboard="Email"/>
+            <Entry Placeholder="Password" x:Name="password" IsPassword="True"/>
+            <Button Text="Agregar Usuario" Clicked="Add_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

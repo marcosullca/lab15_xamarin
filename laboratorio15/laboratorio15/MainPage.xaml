@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="laboratorio15.MainPage"
+             xmlns:local="clr-namespace:laboratorio15">
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Text="Agregar" Grid.Row="0" x:Name="Nav_agregar"/>
+            <ListView x:Name="miLista" Grid.Row="1" HorizontalOptions="FillAndExpand" HasUnevenRows="True" ItemSelected="Usuario_seleccionado" >
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <Grid HorizontalOptions="FillAndExpand" Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Label Text="{Binding firstName}" x:Name="primernombre"  HorizontalOptions="StartAndExpand" Grid.Row="0" TextColor="black"  FontAttributes="Bold"/>
+                                <Label Text="{Binding lastName}" HorizontalOptions="StartAndExpand" Grid.Row="1" TextColor="Orange"  FontAttributes="Bold"/>
+                                <Label Text="{Binding email}" HorizontalOptions="StartAndExpand" Grid.Row="2" TextColor="Gray"  FontAttributes="Bold"/>
+
+                                <BoxView HeightRequest="2" Margin="0,10,10,0" BackgroundColor="Gray" Grid.Row="3" HorizontalOptions="FillAndExpand" />
+                            </Grid>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </Grid>
+</ContentPage>

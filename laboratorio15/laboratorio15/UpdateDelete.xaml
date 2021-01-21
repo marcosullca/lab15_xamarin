@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="laboratorio15.UpdateDelete">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Nombre" x:Name="firstName"/>
+            <Entry Placeholder="Apellido" x:Name="lastName"/>
+            <Entry Placeholder="Correo" x:Name="email"/>
+            <Entry Placeholder="Password" x:Name="password" IsPassword="True"/>
+            <Button Text="Actualizar Usuario" Clicked="Update_Clicked"/>
+            <Button Text="Eliminar Usuario" Clicked="Delete_Clicked" BackgroundColor="Red" TextColor="White"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

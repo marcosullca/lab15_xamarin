@@ -1,0 +1,16 @@
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\bin\Debug\netstandard2.0\laboratorio15.deps.json
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\bin\Debug\netstandard2.0\laboratorio15.dll
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\laboratorio15.csprojAssemblyReference.cache
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\laboratorio15.AssemblyInfoInputs.cache
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\laboratorio15.AssemblyInfo.cs
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\laboratorio15.dll
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\ref\laboratorio15.dll
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\laboratorio15.pdb
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\bin\Debug\netstandard2.0\ref\laboratorio15.dll
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\bin\Debug\netstandard2.0\laboratorio15.pdb
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\laboratorio15.csproj.CoreCompileInputs.cache
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\AgregarUsuario.xaml.g.cs
+D:\TECSUP\Proyectos-xamarin\laboratorio15\laboratorio15\laboratorio15\obj\Debug\netstandard2.0\UpdateDelete.xaml.g.cs
